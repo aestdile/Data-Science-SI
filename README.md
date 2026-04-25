@@ -1,2 +1,2 @@
-# Data-Science-SI [4/24/2026]
+# Data-Science-SI [Started -> 4/24/2026]
 Data sayns muhandislari terabaytlab axborotlarni tahlil qilish, ulardan foydali maʼlumotlarni olish, bevosita modellar yaratish bilan shugʻullanadi. Zamonaviy sunʼiy intellekt asosida ishlovchi dasturlarni yaratish uchun juda katta hajmdagi maʼlumotlarga ishlov berish talab etiladi. Buni esa Data sayns mutaxassislari bajaradi. Masalan, ChatGPT dasturini yaratish uchun 45TB matnlarga ishlov berilgan. Tesla oʻziyurar mashinalari esa 56 mln km masofadagi videolarni “oʻrganib” chiqqan.
